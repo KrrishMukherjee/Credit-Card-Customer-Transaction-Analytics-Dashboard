@@ -6,3 +6,11 @@ This project analyzes credit card customer and transaction datasets to uncover s
 
 ![Credit-Card-Customer-Transaction-Analytics-Dashboard](Customer%20Data%20Analysis.png)
 
+This dashboard provides a comprehensive analysis of customer demographics and financial behavior. It highlights key insights such as age distribution, income segmentation, education levels, and loan adoption patterns.
+
+Key features include:
+- Age group and income distribution analysis  
+- Personal loan acceptance trends  
+- Customer segmentation by job and education  
+- Geographic distribution across states  
+- Relationship between income levels and loan status  
