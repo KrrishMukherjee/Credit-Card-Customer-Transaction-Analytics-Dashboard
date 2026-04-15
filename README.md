@@ -16,6 +16,7 @@ Key features include:
 - Relationship between income levels and loan status  
 ## 📊 Customer Segmentation Dashboard
 
-![Customer Analytics Dashboard](Customer%20Data%20Analysis.png)
+![Customer Analytics Dashboard](Customer%20Segment%20Analysis.png)
+
 
 This dashboard provides a quick overview of customer demographics, income segments, and loan behavior. It highlights key patterns in age distribution, education levels, and financial trends to support data-driven decision-making.
