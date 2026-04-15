@@ -4,4 +4,5 @@ This project analyzes credit card customer and transaction datasets to uncover s
 ## Dashboard
 ## 📊 Customer Analytics Dashboard
 
-![Credit-Card-Customer-Transaction-Analytics-Dashboard](customer-dashboard.png)
+![Credit-Card-Customer-Transaction-Analytics-Dashboard](Customer Data Analysis.png)
+
